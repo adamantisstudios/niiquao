@@ -6,7 +6,7 @@ import './globals.css'
 const geist = Geist({ subsets: ["latin"] });
 const geistMono = Geist_Mono({ subsets: ["latin"] });
 
-const siteUrl = 'https://ernestniiquao.onrender.com'
+const siteUrl = 'https://ernestniiquao.up.railway.app/'
 const imageUrl = `${siteUrl}/professional-african-man-headshot-business.jpg`
 
 export const metadata: Metadata = {
