@@ -269,7 +269,7 @@ export default function Home() {
           </div>
           <div className="border-t border-border pt-8">
             <p className="text-center text-muted-foreground">
-              &copy; 2024 Ernest Nii Quao. All rights reserved.
+              &copy; 2026 Ernest Nii Quao. All rights reserved.
             </p>
           </div>
         </div>
